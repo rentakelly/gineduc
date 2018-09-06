@@ -1,0 +1,2 @@
+# gineduc
+GitHub Pages
